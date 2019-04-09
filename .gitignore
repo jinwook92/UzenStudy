@@ -1,0 +1,14 @@
+## Git Ignore File ##
+
+build
+
+.classpath
+rebel.xml
+styles.scss.cache
+
+#For IDEA
+*.iml
+.idea/
+out/
+_windows/
+codestyles/
