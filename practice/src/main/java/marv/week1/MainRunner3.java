@@ -1,4 +1,4 @@
-package marv;
+package marv.week1;
 
 import java.util.ArrayList;
 

@@ -1,10 +1,9 @@
-package marv;
-
+package marv.week1;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class MainRunner7 {
+public class MainRunner6 {
     public static void main(String[] args) {
         ArrayList<String> my_arr_list = new ArrayList<>();
 
@@ -12,12 +11,8 @@ public class MainRunner7 {
         my_arr_list.add("java");
         my_arr_list.add("world!");
 
+        // my_arr_list의 iterator it을 초기화하세요.
         Iterator<String> it = my_arr_list.iterator();
-
-        // while문으로 my_arr_list의 모든 원소를 출력해봅시다.
-        while (it.hasNext()) {
-            System.out.println(it.next());
-        }
 
     }
 }
