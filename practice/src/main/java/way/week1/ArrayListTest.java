@@ -1,10 +1,10 @@
-package way;
+package src.main.java.way.week1;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class WayTest {
+public class ArrayListTest {
 
     public static void main(String[] args) {
         //1. ArrayList - JAVA API 사용해보기(1) - List import
